@@ -1,0 +1,24 @@
+{
+    "nik": "XXXXXXXX05980002",
+    "nama": "HANIF IZZUOIN RAHMAN",
+    "ttl": {
+        "tempatL": "MALANG",
+        "tanggalL": 15,
+        "bulanL": 5,
+        "tahunL": 1998
+    },
+    "jenisKelamin": "LAKI-LAKI",
+    "golDarah": "O",
+    "alamat": {
+        "jalan": "EUKIT PERMATAHANO",
+        "rt": "006",
+        "rw": "022",
+        "kelDesa": "CILANE",
+        "kecamatan": "NGAMPRAH"
+    },
+    "agama": "ISLAM",
+    "statusPerkawinan": "BELUM KAWIN",
+    "pekerjaan": "BELUMTTIDAK BEKERIA",
+    "kewarganegaraan": "WNI",
+    "berlakuHingga": "SEUMUR HIDUP"
+}
